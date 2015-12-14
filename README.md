@@ -1,2 +1,2 @@
 # py
-a sample quiz with python 
+mi cookies with python
